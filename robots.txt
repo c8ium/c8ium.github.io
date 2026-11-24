@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: *@
+
+Sitemap: https://c8ium.github.io/blog/sitemap.xml
